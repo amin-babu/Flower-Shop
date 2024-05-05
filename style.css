@@ -19,16 +19,16 @@
   align-items: center;
   padding: 50px 150px;
   padding-bottom: 0;
-  height: auto;
+  height: 100vh;
 }
 
 .header-text{
   width: 550px;
-
+  margin-right: 0px;
 }
 
 .header-title{
-  font-size: 60px;
+  font-size: 58px;
   color: #272727;
   margin-bottom: 10px;
 }
@@ -42,5 +42,5 @@
 }
 
 .header-img > img{
-  height: 550px;
+  height: 570px;
 }
